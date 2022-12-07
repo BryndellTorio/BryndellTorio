@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @BryndellTorio I work as a **Hardware Design professionally** where I bring product specifications to mass production a complete product development lifecycle.
+# Hi, I'm Bryndell Torio
+
+- 👋 I work as a **Hardware Design professionally** where I bring product specifications to mass production a complete product development lifecycle.
 - 👀 I’m interested in everything electronics! I own a small electronics lab where I do my tinkering.
 - 🌱 I’m currently learning:
     -> Zephyr app development based on nRF5340 from nordic semiconductors
