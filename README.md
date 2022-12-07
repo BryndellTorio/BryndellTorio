@@ -10,7 +10,7 @@
 - 📫 Feel free to contact me, for advice or just a simple greeting!
     -> Email Addr: bryndelltorio@gmail.com
 
-Have a good day!
+***Have a good day!***
 
 <!---
 BryndellTorio/BryndellTorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
