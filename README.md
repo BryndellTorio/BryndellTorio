@@ -1,13 +1,18 @@
 # Hi, I'm Bryndell
 
-- 👋 I work as a **Hardware Design Engineer** where I bring product specifications to mass production a complete product development lifecycle.
-- 👀 I’m interested in everything electronics! I own a small electronics lab where I do my tinkering.
+- 👋 As a Hardware Design Engineer, I translate product specifications into detailed designs, oversee manufacturing processes , ensure quality control, collaborate with cross-functional teams, and manage the entire product development lifecycle
+     from initial design to final mass production, bringing innovative hardware solutions to market efficiently and
+     cost-effectively.
+- 👀 I'm passionate about electronics and maintain a home laboratory for experimenting with various components and devices.
+     This setup enables me to explore electrical systems and circuitry firsthand.
 - 🌱 I’m currently learning:
     -> Zephyr app development based on nRF5340 from nordic semiconductors
     -> Building my text editor using neovim and lua
     -> Advancing my programming knowledge on both python, C and soon enough Rust.
-- 💞️ I’m looking to collaborate on Zephyr app development using nRF5340 & ESP32 IoT project development.
-- 📫 Feel free to contact me, for advice or just a simple greeting!
+- 💞️ I'm seeking collaboration opportunities for developing the Zephyr app using the nRF5340 and ESP32 platforms in IoT
+     projects.
+- 📫 Seeking counsel or simply wishing to exchange pleasantries? I'm here to assist and delighted to engage in a brief
+     conversation.
     -> Email Addr: bryndelltorio@gmail.com
 
 ***Have a good day!***
