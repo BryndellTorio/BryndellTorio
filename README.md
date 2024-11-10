@@ -1,4 +1,4 @@
-# Hi, I'm Bryndell
+# Hi, I'm Bryndell(Del)
 
 - 👋 As a Hardware Design Engineer, I translate product specifications into detailed designs, oversee manufacturing processes , ensure quality control, collaborate with cross-functional teams, and manage the entire product development lifecycle
      from initial design to final mass production, bringing innovative hardware solutions to market efficiently and
